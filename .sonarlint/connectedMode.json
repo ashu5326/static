@@ -1,4 +1,4 @@
 {
     "sonarQubeUri": "http://43.205.127.115:9000",
-    "projectKey": "static-analysis"
+    "projectKey": "duplicate"
 }
